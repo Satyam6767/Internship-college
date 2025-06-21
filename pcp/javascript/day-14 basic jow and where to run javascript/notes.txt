@@ -37,10 +37,10 @@ how to add js => <script>
 
 console.log => Read,Evaluate, Print, Loop
              
-variable declaration=> 
-                    let 
-                    var
-                    const
+variable declaration=>               redeclaration        reinitialization/update
+                         var            true                       true
+                         let            false                      true
+                         const           false                     false
 
 
 datatype 
@@ -48,9 +48,33 @@ datatype
         string => "hello js", 'abcd'=> sequence of characters
         BigInt => 12348967291038469087489274648724569247450984252345345
         boolean => True, false
-        null
-        undefined
-        symbol
+        null => to indicate nothing or no value
+        undefined => a variable has been declared bud has not assign value
+        symbol => unique in object
+
+
+rules for variable name =>      
+                        valid => let firstname
+                                 let _firstname
+                                 let $firstname
+                                 let firstname123
+                                 normal case = > firstname
+                                 camel case =>  firstName
+                                 snake case => first_name
+
+
+
+                        invalid => let 1first
+                                   dont use space between words
+                                   dont use reserved keywords
+
+
+
+                        casesensitive => 
+                                        firstname
+                                        Firstname
+
+
         
 
 
