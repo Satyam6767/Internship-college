@@ -1,0 +1,65 @@
+HTML
+CSS
+BOOTSTRAP
+
+JAVASCRIPT => dynamic website, logical opertions
+
+
+how and where to write javascript code =>
+        
+        1. in html file => <script> </script>
+        2. external js file => <script src=""></script>
+
+
+how to check node js is installed or not=> vs code terminal => node -v
+                                        cmd prompt/ terminal => node -v
+
+how and where to run javascript code=> 
+        1. in browser engine =>index.html file requied => v8 chrome engine
+        2. in vs code terminal  => with the help of node.js => node filename
+        3.in cmd/terminal => with the help of node.js => node filename
+        4. in cmd/terminal => without file => type node in terminal and then write js code
+
+javascript =>
+            1. Basic => variable, datatype, array, object, function, if-else, loop
+            2. Dom => html,css dynamic chnange
+            3. Async => api call, settimout, callback, promise
+
+
+Console.log =>
+                1.Read
+                2. Evaluate
+                3. Print
+                4 Loop
+
+
+variable => it is like a container for storing values
+variable declaration => 
+                        1. var
+                        2. let
+                        3. const
+
+
+datatype => 1. number => integer, decimal, +ve, -ve
+            2. string => "" , '', sequence of characters
+            3. boolean => true, false
+            4. null
+            5. undefined
+            6. BigInt
+            7. symbol
+
+how to check datatype =>
+                            console.log(typeof a) 
+                            console.log(typeof(a))
+
+
+
+
+
+
+
+
+
+
+
+

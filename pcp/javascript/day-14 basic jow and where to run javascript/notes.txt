@@ -1,0 +1,56 @@
+html
+css
+bootstrap
+
+
+javascript => dynamic, logical operation, 
+
+*********************************day-1
+
+js=> 
+        basic => variable, datatype, array, function, object, if-else, loop
+        dom => connect html js
+        async => api call , settimout, callback
+
+
+html runs on browser
+js code runs on  => 
+                  1. browser engine (index.html)  =>    google v8 chrome
+                  2. vs code terminal => with the help of node
+                  3. terminal / cmd prompt => with the help of node
+                  4. terminal / cmd prompt => without file => type node in cmd
+
+
+node.js => run javascript everye
+
+how to check => node -v
+
+how to add js => <script>
+                </script>
+
+
+                <script src="">
+                </script>
+
+
+
+
+console.log => Read,Evaluate, Print, Loop
+             
+variable declaration=> 
+                    let 
+                    var
+                    const
+
+
+datatype 
+        number =>21342314, 123.765
+        string => "hello js", 'abcd'=> sequence of characters
+        BigInt => 12348967291038469087489274648724569247450984252345345
+        boolean => True, false
+        null
+        undefined
+        symbol
+        
+
+
