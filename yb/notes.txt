@@ -76,10 +76,25 @@ rules for variable name =>
 
 
 
+variable => used for storing single item 
+           TO ACCESS vaiable we use variable name
+
+array => collection of items 
+        to access array element we use index number
+
+methods=> 
+        length=> total number of elements in an array
+        push  => add element at last index, change in actual array
+        pop =>  remove a  element from last index, change in actual array
+        unshift => add element at first index, change in actual array
+        shift => remove a  element from first index, change in actual array
+        slice => to extract a portion from an array ,don't change in actual array
 
 
 
 
+
+        
 
 
 
