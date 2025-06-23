@@ -34,23 +34,47 @@ Console.log =>
 
 
 variable => it is like a container for storing values
-variable declaration => 
-                        1. var
-                        2. let
-                        3. const
+variable declaration =>             redeclare            reinitialize/update
+                        1. var       true                       true
+                        2. let       false                      true
+                        3. const     false                      false
 
 
-datatype => 1. number => integer, decimal, +ve, -ve
+primite datatype => 1. number => integer, decimal, +ve, -ve
             2. string => "" , '', sequence of characters
             3. boolean => true, false
-            4. null
-            5. undefined
-            6. BigInt
-            7. symbol
+            4. null =>no value / indicates nothing ./ 
+            5. undefined => if we declare a varible but not assign a value
+            6. BigInt => 87136284644987435987324598743258763476
+            7. symbol => unique in object
+
+
+non-primite datatype => array, object
 
 how to check datatype =>
                             console.log(typeof a) 
                             console.log(typeof(a))
+
+
+rules for variable name => 
+
+                case sensitive=> lastname, Lastname
+
+                valid=>
+                        1. start with _ ,  $
+                        2. use normal case => lastname
+                        3. use camel case =>  lastName
+                        4. use snake case =>  last_name
+
+
+
+                invalid=>
+                        1. dont use reserved keyword
+                        2. dont use space between two word
+                        3. dont start with number
+
+
+
 
 
 

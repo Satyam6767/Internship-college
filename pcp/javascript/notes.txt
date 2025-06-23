@@ -42,6 +42,9 @@ variable declaration=>               redeclaration        reinitialization/updat
                          let            false                      true
                          const           false                     false
 
+*********************************day-2
+
+
 
 datatype 
         number =>21342314, 123.765
@@ -75,6 +78,27 @@ rules for variable name =>
                                         Firstname
 
 
-        
 
+*********************************day-3
+
+variable => variable_name
+array item => index number
+
+
+
+array => collection of items.
+
+
+
+var students_name = ["xyz", "abc", "qwe", 64, true]
+
+
+methods in array =>
+                        length => find total number of elements in that array
+                        push => add item at last index , change the actual array.
+                        Pop => remove/delet item from last index , change the actual array.
+                        unshift =>  add item at first index , change the actual array.
+                        shift => remove/delet item from first index , change the actual array.
+                        slice => extract a portion from an array, don not  change in the actual array.
+                        splice => change the actual array., crud
 
