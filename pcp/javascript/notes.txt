@@ -102,3 +102,25 @@ methods in array =>
                         slice => extract a portion from an array, don not  change in the actual array.
                         splice => change the actual array., crud
 
+
+*********************************day-3
+
+function => a block/piece of code , that can be reusable
+           function defining
+           function calling
+           parameter
+           argument
+           return
+
+
+           normal way
+           in a vaiable
+           fat arrow function
+
+
+
+
+
+           variable => single value
+           array => colletion of elements
+           function => 

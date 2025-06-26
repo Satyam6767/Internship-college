@@ -89,7 +89,38 @@ methods=>
         unshift => add element at first index, change in actual array
         shift => remove a  element from first index, change in actual array
         slice => to extract a portion from an array ,don't change in actual array
+        splice= > change in actual array, apply crud opertaion on an array
 
+
+
+variable-> used for storing single value
+array -> collection of items
+function -> piece/block of code , that can be reusable
+
+        function defining
+        function calling
+        parameter
+        argument
+
+
+        normal way=>
+
+                                function calculate(){
+                                        statement
+                                }
+                                calculate()
+
+        in a variable => 
+                                let print = function(){
+    
+                                }
+                                print()
+
+        fat arrow function => 
+                                let task = () => {
+                                        
+                                }
+                                task()
 
 
 

@@ -1,0 +1,17 @@
+javascript=>
+
+        dynamic, logical
+
+where to write js code=>
+                  1. in html file -> script tag  
+                  2. external js file => script tag , src=path
+
+
+how to cross check node is installed or not => node -v
+
+
+where to run js code => 
+                    1. browser engine => with the help of html file
+                    2. in vs code terminal =>with the help of node 
+                    3. in terminal / cmd =>with the help of node 
+                    4. in terminal / cmd =>type node 
