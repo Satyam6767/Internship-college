@@ -1,6 +1,13 @@
 javascript=>
+                                dynamic, logical
 
-        dynamic, logical
+
+        1. basic =>  variable, let, var const, datatypes, array, object, function, 
+                        loop, if-else, operator
+        2. dom => change content of html, css
+        3. async => call api, callback 
+
+        
 
 where to write js code=>
                   1. in html file -> script tag  
@@ -15,3 +22,42 @@ where to run js code =>
                     2. in vs code terminal =>with the help of node 
                     3. in terminal / cmd =>with the help of node 
                     4. in terminal / cmd =>type node 
+
+
+datatypes in js=> 
+//             string => " ", ' ', sequence of characters
+//             Number => integer, decimal
+//             boolean => true , false
+//             Bigint => 982374987332488234098550984235847325824358073425
+//             undefined => when you declare a variable and not assign a value.
+//             null =>  when you intentinally want to give any varibale null
+//             symbol => unique in object
+
+
+
+rules for variable name=>
+                dont start with numbers
+                dont use white space
+                dont use reserved keywords
+                case sensitive
+
+                use normal way
+                use snake case
+                use camel case
+
+
+
+                        redeclare                         reinitialize/update
+                var     possible                                possible               
+                let     not possible                            possible
+                const   not possible                            not possible
+
+
+
+                concatination
+                add
+                backtisks / template literals
+
+
+
+

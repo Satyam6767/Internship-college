@@ -126,7 +126,19 @@ function -> piece/block of code , that can be reusable
 
 
         
+operator => 
+    1. Atithmetic operator=> + , - ,*, / ,%, ++, --
+    2. assignment operator => = , +=, -=, /=, %=
+    3. comparison operator => ==, ===, > , < >=, <= !=
+    4  logical operator => && , || ,!
+    5  ternary operator
 
+
+        if else
+        if else  if else ladder
+        lopp=> for , while, do-while, for-of
+
+  
 
 
 
